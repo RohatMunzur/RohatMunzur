@@ -32,19 +32,7 @@
 
 <br/>
 
-## 📊 GitHub İstatistikleri
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohatmunzur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohatmunzur&layout=compact&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <br/>
 
