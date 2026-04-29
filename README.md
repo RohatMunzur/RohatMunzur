@@ -31,5 +31,9 @@
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20it%20is%20the%20courage%20to%20continue%20that%20counts." />
-</div>
+  <p>
+    "EN GÜVENİLİR VERİ HİÇ VAR OLMAMIŞ VERİDİR. "
+    <p>
+                                   "rohat munzur"
+      
+  </p>
