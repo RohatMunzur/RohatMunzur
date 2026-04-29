@@ -31,9 +31,11 @@
 
 
 <div align="center">
-  <p>
+
+  
+<br/>
     "EN GÜVENİLİR VERİ HİÇ VAR OLMAMIŞ VERİDİR. "
-    <p>
+  p
                                    "rohat munzur"
-      
+      <br/>
   </p>
