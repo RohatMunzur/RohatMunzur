@@ -36,6 +36,6 @@
 <br/>
     "EN GÜVENİLİR VERİ HİÇ VAR OLMAMIŞ VERİDİR. "
   
-  <p>                             -rohat munzur
+  <p>                                            -rohat munzur
       <br/>
   </p>
